@@ -1,18 +1,3 @@
-"""
-EMAIL:
-
-Sir,
-
-I have completed the program for solving DA-1. I would like to test it before submitting it. Could you please send me the excel sheet of phone numbers?
-
-Thank you for your time.
-
-Abitha K Thyagarajan
-
-"""
-
-
-
 import openpyxl
 from math import pi
 from cmath import rect, polar
