@@ -1,6 +1,8 @@
 # circuit-solver
 An assignment for my Network Theory class.
 
+The formulae used to calculate the answers can be found in `formulae.pdf`.
+
 ## Usage
 
 1. Install `python3` and `pip`.
@@ -28,4 +30,4 @@ py circuit-solver.py
 
 ## Issues
 
-If you find any bugs or mistakes, please open an issue!
+If you find any bugs or mistakes, please let me know by opening an issue!
